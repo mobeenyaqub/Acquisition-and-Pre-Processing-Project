@@ -46,7 +46,6 @@ DSCI-511 Final Project/
 
 ### 📊 Data Files
 - **`Data.csv`**: Cleaned and processed dataset containing 1,819 unique trending videos
-- **`Data OG.csv`**: Original dataset before deduplication and cleaning
 
 ### 📓 Notebooks
 - **`Final.ipynb`**: Contains data collection code, API integration, and initial processing
