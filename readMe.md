@@ -16,7 +16,7 @@
 ## 📚 Overview
 This project analyzes **YouTube** trends in 2024-2025 by programmatically collecting metadata from the **RapidAPI YouTube** endpoint, storing it in CSV format, and then analyzing content engagement patterns to derive strategic insights for content creators.
 
-The dataset captures metadata from 1,819 trending videos across multiple regions (US, GB, AU) and content categories (music, gaming, movies), representing a combined viewership of 6.5 billion. It serves as a valuable resource for understanding content performance, audience engagement patterns, and optimal publishing strategies on one of the world's largest video platforms.
+The dataset captures metadata from 2,155 trending videos across multiple regions (US, GB, AU) and content categories (music, gaming, movies), representing a combined viewership of 6.5 billion. It serves as a valuable resource for understanding content performance, audience engagement patterns, and optimal publishing strategies on one of the world's largest video platforms.
 
 ## 👥 Team Members & Contributions
 
@@ -37,7 +37,7 @@ The dataset captures metadata from 1,819 trending videos across multiple regions
 ## 📁 Files & Structure
 ```
 DSCI-511 Final Project/
-├── Data.csv                 # Main cleaned dataset (1,819 trending videos)
+├── Data.csv                 # Main cleaned dataset (2,155 trending videos)
 ├── Final.ipynb              # Jupyter Notebook with data collection code
 └── analysis.ipynb           # Comprehensive data analysis and visualizations
 ```
@@ -45,7 +45,7 @@ DSCI-511 Final Project/
 ### 🔍 Key Scripts
 
 ### 📊 Data Files
-- **`Data.csv`**: Cleaned and processed dataset containing 1,819 unique trending videos
+- **`Data.csv`**: Cleaned and processed dataset containing 2,155 unique trending videos
 
 ### 📓 Notebooks
 - **`Final.ipynb`**: Contains data collection code, API integration, and initial processing
@@ -72,7 +72,7 @@ DSCI-511 Final Project/
 | `Duration` | Video length in seconds | 0, 708, 1166, 1324 | Integer |
 
 ### 📈 Key Dataset Statistics
-- **Total Records:** 1,819 unique trending videos
+- **Total Records:** 2,155 unique trending videos
 - **Total Views:** 6.5 billion combined views
 - **Average Views:** 3.57 million per video
 - **Median Views:** 698,119 views
