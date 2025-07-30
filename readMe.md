@@ -43,10 +43,6 @@ DSCI-511 Final Project/
 ```
 
 ### 🔍 Key Scripts
-- **`main.py`**:
-  - Connects to the RapidAPI YouTube endpoint
-  - Collects trending videos across regions and content types
-  - Processes JSON responses and stores results in CSV format
 
 ### 📊 Data Files
 - **`Data.csv`**: Cleaned and processed dataset containing 1,819 unique trending videos
@@ -190,12 +186,6 @@ To explore our analysis:
 - Open `analysis.ipynb` in Jupyter Notebook
 - Execute cells in sequence to reproduce our entire analytical process
 - All visualizations will be generated as you progress through the notebook
-
-### 🤖 Automated Collection Script (main.py)
-This standalone script demonstrates how we automated the data collection:
-- Documents our approach to scheduled data gathering
-- Shows implementation of error handling and retry mechanisms
-- Explains our incremental data storage approach
 
 All code is extensively commented to facilitate understanding and potential reuse.
 
