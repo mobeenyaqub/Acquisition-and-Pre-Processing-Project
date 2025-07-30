@@ -38,12 +38,8 @@ The dataset captures metadata from 1,819 trending videos across multiple regions
 ```
 DSCI-511 Final Project/
 ├── Data.csv                 # Main cleaned dataset (1,819 trending videos)
-├── Data OG.csv              # Original dataset before cleaning
 ├── Final.ipynb              # Jupyter Notebook with data collection code
-├── analysis.ipynb           # Comprehensive data analysis and visualizations
-├── main.py                  # Primary script for data acquisition via API
-├── README.md                # This project documentation file
-└── Final Project.pdf        # PDF version of the final presentation
+└── analysis.ipynb           # Comprehensive data analysis and visualizations
 ```
 
 ### 🔍 Key Scripts
